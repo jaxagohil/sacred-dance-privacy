@@ -20,7 +20,7 @@ Sacred Dance may store:
 Information is used solely to:
 
 - Generate reflections and guidance
-- Personalize the user experience
+- Personalise the user experience
 - Improve app functionality
 - Provide multilingual support
 
