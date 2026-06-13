@@ -90,11 +90,11 @@ Reasonable efforts will be made to remove user data within an appropriate timefr
 
 ---
 
-## Children's Privacy
+## Age Requirement
 
-Sacred Dance is not intended for children under the age of 13.
+Sacred Dance is intended for adults aged 18 years and older.
 
-We do not knowingly collect personal information from children.
+The application is not directed toward individuals under the age of 18, and we do not knowingly collect personal information from anyone under 18 years of age.
 
 ---
 
