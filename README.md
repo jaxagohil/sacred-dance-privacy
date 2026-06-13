@@ -2,64 +2,46 @@ Sacred Dance Privacy Policy
 
 Last Updated: June 2026
 
-Overview
-
-Sacred Dance is a reflective consciousness application designed to support self-awareness, journaling, guidance, and personal reflection.
-
-We respect your privacy and are committed to protecting your personal information.
+Sacred Dance respects your privacy.
 
 Information We Collect
 
-Sacred Dance may collect:
+Sacred Dance may store:
 
-Email address (if provided during sign-in)
-User profile information
-Reflections, journal entries, and responses entered by the user
-Device and application usage information
+Reflections and journal entries submitted by users
 App preferences and settings
+Anonymous identifiers used to provide app functionality
+Language preferences
 How We Use Information
 
-Information is used to:
+Information is used solely to:
 
-Provide personalised reflections and guidance
-Store user entries and profile information
-Improve app performance and reliability
-Diagnose technical issues
-Support future product improvements
-Data Storage
+Generate reflections and guidance
+Personalize the user experience
+Improve app functionality
+Provide multilingual support
+AI Services
 
-Sacred Dance uses secure third-party infrastructure including Supabase to store application data.
+Sacred Dance uses artificial intelligence services to generate reflections, guidance, and insights based on user inputs.
 
-Reasonable measures are taken to protect information against unauthorised access or disclosure.
+Users should not consider app content as medical, legal, financial, or professional advice.
 
-AI-Generated Content
+Data Sharing
 
-Some content within Sacred Dance may be generated using artificial intelligence.
+Sacred Dance does not sell personal information.
 
-AI-generated guidance, reflections, and interpretations are intended for personal reflection purposes only and should not be considered medical, psychological, legal, or professional advice.
+Information is not shared with third parties except where required to provide app functionality and infrastructure services.
 
-Sharing Information
+Data Security
 
-We do not sell personal information.
-
-Information may be shared only with service providers required to operate the application, such as cloud infrastructure providers.
-
-Data Deletion
-
-Users may request deletion of their account and associated data by contacting:
-
-Instagram: @TheSacredDance
+Reasonable measures are taken to protect user information and app data.
 
 Children's Privacy
 
 Sacred Dance is not intended for children under 13 years of age.
 
-Changes to This Policy
-
-This Privacy Policy may be updated periodically. Continued use of the application indicates acceptance of any updates.
-
 Contact
 
-Questions regarding this Privacy Policy may be directed to:
+Questions regarding this Privacy Policy may be directed through:
 
 Instagram: @TheSacredDance
