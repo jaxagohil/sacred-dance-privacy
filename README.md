@@ -122,4 +122,4 @@ Questions regarding this Privacy Policy may be directed to:
 
 ---
 
-*"No villains. No blame. Only mirrors."*
+*"World is a Classroom. All People, Places & Things are Mirrors"*
